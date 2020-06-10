@@ -1,0 +1,21 @@
+{
+    "name": "light-with-dark-editor",
+    "displayName": "Light with Dark Editor+",
+    "description": "Dark Theme+ with Light Sidebar",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light with Dark Editor+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Light with Dark Editor+-color-theme.json"
+            }
+        ]
+    }
+}
