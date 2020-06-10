@@ -1,21 +1,38 @@
 {
-    "name": "light-with-dark-editor",
-    "displayName": "Light with Dark Editor+",
-    "description": "Dark Theme+ with Light Sidebar",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.45.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Light with Dark Editor+",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Light with Dark Editor+-color-theme.json"
-            }
-        ]
-    }
+  "name": "light-with-dark-editor",
+  "displayName": "Light with Dark Editor+",
+  "description": "Dark Theme+ with Light Sidebar",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "publisher": "DanielOPrado",
+  "license": "MIT",
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieloprado/vscode-light-with-dark-editor"
+  },
+  "bugs": {
+    "url": "https://github.com/danieloprado/vscode-light-with-dark-editor/issues"
+  },
+  "keywords": [
+    "theme",
+    "light with dark",
+    "dark with light",
+    "light",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light with Dark Editor+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Light with Dark Editor+-color-theme.json"
+      }
+    ]
+  }
 }

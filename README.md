@@ -4,7 +4,7 @@
 
 ## Install
 
-1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=)
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielOPrado.light-with-dark-editor)
 2. Click on the "Install" button
 
 ## Stand Alone with any theme
