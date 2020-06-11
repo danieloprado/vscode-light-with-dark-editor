@@ -29,7 +29,7 @@
     "inputOption.activeBorder": "#94949400",
     "list.activeSelectionBackground": "#09a1ed",
     "list.activeSelectionForeground": "#ffffff",
-    "list.dropBackground": "#383b3d",
+    "list.dropBackground": "#09a1ed5d",
     "list.errorForeground": "#ff5c56",
     "list.focusBackground": "#37a6dd99",
     "list.focusForeground": "#ffffff",
